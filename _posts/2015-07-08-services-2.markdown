@@ -1,0 +1,13 @@
+---
+layout: default
+img: cloud-outline.png
+category: Services
+title: Data Science
+description: |
+---
+  Data science is a new and rapidly expanding field that is being used in everything
+  from business intelligence to health care. Our main focus is on accurately
+  analyzing our raw government data and presenting it to our users in the clearest
+  way possible. We are also looking for trends across datasets as they relate to
+  a specific neighborhood. We believe this will give our users great insight
+  into their community and empower them to make changes they need.

@@ -1,0 +1,27 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://www.kumolabs.io
+title: Kumo Labs
+email: experts@kumolabs.io
+author: Kumo Labs, LLC
+description: "Kumo Labs is a startup specializing in big data and data science for open government data. We also provide consulting services for challenging problems."
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: google
+    url: mailto:experts@kumolabs.io
+  - title: github
+    url: https://github.com/kumo-labs

@@ -1,0 +1,14 @@
+---
+layout: default
+img: mountain-outline.png
+category: Services
+title: Big Data
+description: |
+---
+  Since 2013, the [Open Government Initiative](https://www.whitehouse.gov/open)
+  has published an immense amount of data collected by various agencies.
+  Unfortunately, the format of the data was never specified so most agencies
+  just do a raw or CVS dump of years of data. The first step in our mission is
+  to normalize some of the more interesting datasets into a format that can
+  be easily accessed and queried. If you are interested in API access to the
+  full set of our normalized data, please contact us!
